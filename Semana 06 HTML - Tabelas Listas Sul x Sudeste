@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+<title>Sudeste x Sul</title> 
+<meta charset="utf-8">
+<style>
+    table
+        {
+            text-align:center
+        }
+    li
+        {
+           font-style: italic;
+        }
+</style>
+</head>
+
+<body>
+
+   <h3><i>Sudeste x Sul</h3>
+<br>
+<br>
+
+<table width="400" border="1" align="center">
+    <th></th>
+    <th>Estados</th>
+    <th>Cidades</th>
+
+    <tr>
+        <td rowspan="4">Sudeste</td>
+        <td>São Paulo</td>
+        <td>
+            <ul>
+                <li>São Paulo</li>
+                <li>Guarulhos</li>
+                <li>Campinas</li>
+            <ul>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>Rio de Janeiro</td>
+        <td>
+            <ol>
+                <li>Rio de Janeiro</li>
+                <li>São Gonçalo</li>
+                <li>Duque de Caxias</li>
+            </ol>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Minas Gerais</td>
+        <td>
+           
+           <ul type = circle>
+                 <li>Belo Horizonte</li>
+                 <li>Uberlândia</li>
+                 <li>Contagem</li>
+            </ul>
+            
+        </td>
+    </tr>
+
+    <tr>
+        <td>Espirito Santo</td>
+        <td>
+            <ol type = I>
+                <li>Vila Velha</li>
+                <li>Serra</li>
+                <li>Cariacica</li>
+            </ol>
+        </td>
+    </tr>
+
+    <tr>
+        <td rowspan="3">Sul</td>
+        <td>Rio Grande do Sul</td>
+        <td>
+            <ol type = a>
+                <li>Porto Alegre</li>
+                <li>Caxias do Sul</li>
+                <li>Pelotas</li>
+            </ol>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Paraná</td>
+        <td>
+            <ul>
+                <li>Curitiba</li>
+                <li>Londrina</li>
+                <li>Maringá</li>
+            </ul>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Santa Catarina</td>
+        <td>
+            <ol>
+                <li>Joinville</li>
+                <li>Florianópolis</li>
+                <li>Blumenau</li>
+            </ol>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
