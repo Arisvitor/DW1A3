@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8"/>
+    <title> Exercício_5</title>
+
+</head>
+<body>
+<h1>Exercício 2 - Curriculum vitae (Listas e Links)</h1>
+
+<h3>Menu</h3>
+
+<p>Dados Pessoais</p>
+<p>Objetivo</p>
+<p>Formação Acadêmica</p><p>Experiência Profissional</p>
+<p>Atividades Complementares</p>
+<p>Idioma</p>
+<br>
+
+<h3>Dados Pessoais</h3>
+<hr>
+
+<p><i>Nome: Fulano Siclano</p>
+<p><a href="http://www.meu.email@gmail.com">E-mail: meu.email.org</a></p>
+<p>Github: Meu Github</p>
+</i>
+
+<br>
+
+<h3>Objetivo</h3>
+<hr>
+
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+<br>
+<h3>Formação Acadêmica</h3>
+<hr>
+
+<ul>
+<li>Escola 1</li>
+<li>MBA</li>
+</ul>
+
+<br>
+<h3>Experiência Profissional</h3>
+<hr>
+
+<ul>
+<li>Experiência 1</li>
+<li>Experiência 2</li>
+<li>Experiência 3</li>
+</ul>
+
+<br>
+<h3>Atividades Complementares</h3>
+<hr>
+<ul>
+<li>Curso 1</li>
+<li>Curso 2</li>
+</ul>
+
+
+<h3>Idioma</h3>
+<hr>
+<ul>
+    <li>Inglês
+        <ul>
+            <li>Escreve Bem</li>
+            <li>Lê Bem</li>
+            <li>Compreende Bem</li>
+            <li>Fala Regular</li>
+        </ul>
+        <br>
+    </li>
+    <li>Kingdon
+        <ul>
+            <li>Escreve Pouco</li>
+            <li>Lê Bem</li>
+            <li>Compreende Bem</li>
+            <li>Fala Bem</li>
+        </ul>
+    </li>
+</ul>
+
+</body>
+</html>
