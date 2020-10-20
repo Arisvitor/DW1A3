@@ -6,26 +6,27 @@
 </head>
 <style>
     body{
-
-
+        background-color:black
         }
     p
         {
-            text-align:center
-        }
-    
-        {
-           font-color: ;
+            text-align:initial;
+            color:white;
+
         }
 </style>
 </head>
 
 
 <body>
-Exemplo de uso de uma folha de estilos CSS embuitida no próprio documento
 
-A folha de estilos é inserida utilizando a tag HTML style
+<p style="color:green";>Exemplo de uso de uma folha de estilos CSS embuitida no próprio documento</p>
 
-A folha de estilos deve ser inserida dentro da seção de cabeçalho do documento (HEAD)
+<p>A folha de estilos é inserida utilizando a tag HTML style</p>
 
-Definições CSS do tipo inline normalmente prevalecem 
+<p>A folha de estilos deve ser inserida dentro da seção de cabeçalho do documento (HEAD)</p>
+
+<p style="color:red";>>Definições CSS do tipo inline normalmente prevalecem</p>
+
+</body>
+</html>
