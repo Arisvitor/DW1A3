@@ -1,0 +1,43 @@
+
+.quadro
+    { 
+      border:2px solid black;
+      padding: 140px;
+      width: 450px;
+      height:130px;  
+      position: absolute;
+      top: 6px;
+      left:180px;
+    }
+
+.texto
+    { padding: 0px;
+      width: 600px;
+      height: 1px;  
+      position: absolute;
+      top: 5px;
+      right: 500px;
+      left: 100px;
+    }
+
+h1
+    {
+      font-family:Verdana;
+      font-size: 30px;
+      line-height:1em;
+    }
+p
+    {
+      font-family: Verdana;
+      font-size: 15px;
+      font-weight: bold; 
+      text-decoration: underline;       
+    }
+
+.verde{
+    color: rgb(25, 155, 25);
+
+}
+.vermelho{
+    color: red;
+}
