@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="utf-8">
+<title> Semana 09 CSS - Classes </title>
+<style>
+
+    h2{
+            text-align:center;
+           
+        }
+
+     p{
+            font-family:Verdana;
+            font-size: 12px;
+            text-align:center;
+            line-height:2em;
+        }
+</style> 
+</head>
+
+<body>
+
+<h2> Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</h2>
+<p>Curso: Tecnologia em Análise e Desenvolvimento de Sistemas</p>
+<p>Curso: Disciplina: Desenvolvimento Web I</p>
+
+</body>
+</html>
